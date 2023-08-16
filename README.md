@@ -1,9 +1,7 @@
-# math_formula
+# Math Formula Recognition
 math symbol recognition
 
 model : Densenet encode model
-
-###########################################################################################################
 
 To pursue better performance, we did four experiments.we also add data_aug on the source code.
 
